@@ -55,41 +55,42 @@ This app is designed for managing trips with features like **adding new trips, e
 Here are some previews of the application:
 
 ### Home Page
-(./assets/Home.png)
+![Home Page](./src/assets/Home.png)
 
 ### Add Route
-(./src/assets/Add Route.png)
+![Add Route](./src/assets/Add%20Route.png)
 
 ### Planned status
-(./src/assets/Planned.png)
+![Planned status](./src/assets/Planned.png)
 
 ### OnGoing status
-(./src/assets/Ongoing.png)
+![OnGoing status](./src/assets/Ongoing.png)
 
 ### Search Mumbai
-(./src/assets/Search mumbai.png)
+![Search Mumbai](./src/assets/Search%20mumbai.png)
 
 ### Delete Paris
-(./src/assets/Delete Paris.png)
+![Delete Paris](./src/assets/Delete%20Paris.png)
 
 ### After Delete No Paris Data Show
-(./src/assets/No Paris Data Show.png)
+![No Paris Data Show](./src/assets/No%20Paris%20Data%20Show.png)
 
 ### Add Gujrat
-(./src/assets/Add Gujrat.png)
+![Add Gujrat](./src/assets/Add%20Gujrat.png)
 
 ### After add Search Gujrat
-(./src/assets/Completed.png)
+![Completed](./src/assets/After%20add%20Search%20Gujrat.png)
 
 ### Page
-(./src/assets/Page.png)
+![Page](./src/assets/Page.png)
 
 ### Json Data for Backend
-(./src/assets/json data.png)
-
----
+![Json Data](./src/assets/json%20data.png)
 
 ## ⚙️ Installation
+
+Backend Code: 
+http://localhost:5000/trips
 
 Clone the repo:
 
@@ -97,8 +98,4 @@ Clone the repo:
 git clone https://github.com/Hariom2312/manage-trip.git
 cd manage-trip
 
-Backend Code: 
-http://localhost:5000/trips
-
-```bash
 npx json-server src\data\trips.json --port 5000
