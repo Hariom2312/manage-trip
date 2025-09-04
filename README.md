@@ -45,7 +45,7 @@ This app is designed for managing trips with features like **adding new trips, e
     Pagination.jsx
   /pages
     Dashboard.jsx
-   AddTrip.jsx
+    AddTrip.jsx
     EditTrip.jsx
   /data
     trip.json
