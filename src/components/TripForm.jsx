@@ -34,7 +34,7 @@ export default function TripForm({ initialData, onSubmit, onCancel }) {
           className="input input-bordered"
           placeholder="Destination"
         />
-        
+
         <label for="sDate">Start Date:</label>
         <input
           type="date"
@@ -56,15 +56,15 @@ export default function TripForm({ initialData, onSubmit, onCancel }) {
         />
 
         <label for="price">Price:</label>
-        <input
-          type="number"
-          id="price"
-          name="price"
-          value={form.price}
-          onChange={handleChange}
-          className="input input-bordered"
-          placeholder="Price"
-        />
+          <input
+            type="number"
+            id="price"
+            name="price"
+            value={form.price}
+            onChange={handleChange}
+            className="input input-bordered"
+            placeholder="₹ Price"
+          />
         <label for="status">Status:</label>
         <select
           name="status"

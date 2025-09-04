@@ -1,27 +1,19 @@
 {
   "trips": [
     {
-      "id": "4",
-      "destination": "Paris",
-      "startDate": "2025-09-10",
-      "endDate": "2025-09-20",
-      "price": 1500,
-      "status": "PLANNED"
-    },
-    {
       "id": "5",
       "destination": "London",
-      "startDate": "2025-09-15",
-      "endDate": "2025-09-25",
-      "price": 1800,
+      "startDate": "2025-09-02",
+      "endDate": "2025-10-15",
+      "price": 50000,
       "status": "ONGOING"
     },
     {
       "id": "fbba",
       "destination": "Delhi",
-      "startDate": "2025-10-15",
-      "endDate": "2025-10-19",
-      "price": 100,
+      "startDate": "2025-07-15",
+      "endDate": "2025-07-30",
+      "price": 9000,
       "status": "COMPLETED"
     },
     {
@@ -29,8 +21,32 @@
       "destination": "Indore",
       "startDate": "2025-09-05",
       "endDate": "2025-09-25",
-      "price": 5000,
+      "price": 3000,
       "status": "ONGOING"
+    },
+    {
+      "id": "667c",
+      "destination": "America",
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-25",
+      "price": 10000,
+      "status": "PLANNED"
+    },
+    {
+      "id": "83cb",
+      "destination": "Mumbai",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-18",
+      "price": 5000,
+      "status": "PLANNED"
+    },
+    {
+      "id": "770f",
+      "destination": "Gujrat",
+      "startDate": "2025-12-15",
+      "endDate": "2026-01-15",
+      "price": 12000,
+      "status": "PLANNED"
     }
   ]
 }
