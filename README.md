@@ -66,6 +66,9 @@ Here are some previews of the application:
 ### OnGoing status
 ![OnGoing status](./src/assets/Ongoing.png)
 
+### Completed status
+![OnGoing status](./src/assets/Completed.png)
+
 ### Search Mumbai
 ![Search Mumbai](./src/assets/Search%20mumbai.png)
 
@@ -89,8 +92,13 @@ Here are some previews of the application:
 
 ## ⚙️ Installation
 
+Frontend Code: 
+http://localhost:5173
+
 Backend Code: 
 http://localhost:5000/trips
+
+Run on Terminal:
 
 Clone the repo:
 
@@ -99,3 +107,4 @@ git clone https://github.com/Hariom2312/manage-trip.git
 cd manage-trip
 
 npx json-server src\data\trips.json --port 5000
+
