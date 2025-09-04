@@ -34,7 +34,7 @@ This app is designed for managing trips with features like **adding new trips, e
 ---
 
 ## 📂 Project Structure
-- /src
+-' /src
 -  /components
 -    Navbar.jsx
 -    TripList.jsx
@@ -48,7 +48,7 @@ This app is designed for managing trips with features like **adding new trips, e
 -  /data
 -    trip.json
 -  App.jsx
--  main.jsx
+-  main.jsx'
 
 ## 📸 Screenshots
 
