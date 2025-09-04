@@ -55,37 +55,37 @@ This app is designed for managing trips with features like **adding new trips, e
 Here are some previews of the application:
 
 ### Home Page
-[Home](./assets/Home.png)
+(./assets/Home.png)
 
 ### Add Route
-(./assets/Add Route.png)
+(./src/assets/Add Route.png)
 
 ### Planned status
-![Planned](./assets/Planned.png)
+(./src/assets/Planned.png)
 
 ### OnGoing status
-![OnGoing](./assets/Ongoing.png)
+(./src/assets/Ongoing.png)
 
 ### Search Mumbai
-![Search Mumbai](./assets/Search mumbai.png)
+(./src/assets/Search mumbai.png)
 
 ### Delete Paris
-![Delete Paris](./assets/Delete Paris.png)
+(./src/assets/Delete Paris.png)
 
 ### After Delete No Paris Data Show
-![No Paris Data](./assets/No Paris Data Show.png)
+(./src/assets/No Paris Data Show.png)
 
 ### Add Gujrat
-![Add Gujrat](./assets/Add Gujrat.png)
+(./src/assets/Add Gujrat.png)
 
 ### After add Search Gujrat
-![After add Search Gujrat](./assets/Completed.png)
+(./src/assets/Completed.png)
 
 ### Page
-![Page](./assets/Page.png)
+(./src/assets/Page.png)
 
 ### Json Data for Backend
-![Json Data](./assets/json data.png)
+(./src/assets/json data.png)
 
 ---
 
