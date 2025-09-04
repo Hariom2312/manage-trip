@@ -29,26 +29,26 @@ This app is designed for managing trips with features like **adding new trips, e
 ---
 
 ## 🚀 Demo
-👉 _Add deployed link here once hosted (Vercel/Netlify)._  
+[Live Link](https://manage-trip.vercel.app/)
 
 ---
 
 ## 📂 Project Structure
-/src
-  /components
-    Navbar.jsx
-    TripList.jsx
-    TripForm.jsx
-    SearchFilter.jsx
-    Pagination.jsx
-  /pages
-    Dashboard.jsx
-    AddTrip.jsx
-    EditTrip.jsx
-  /data
-    trip.json
-  App.jsx
-  main.jsx
+- /src
+-  /components
+-    Navbar.jsx
+-    TripList.jsx
+-    TripForm.jsx
+-    SearchFilter.jsx
+-    Pagination.jsx
+-  /pages
+-    Dashboard.jsx
+-   AddTrip.jsx
+-    EditTrip.jsx
+-  /data
+-    trip.json
+-  App.jsx
+-  main.jsx
 
 ## 📸 Screenshots
 
