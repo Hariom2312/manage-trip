@@ -58,7 +58,7 @@ Here are some previews of the application:
 [Home](./assets/Home.png)
 
 ### Add Route
-[AddRoute](./assets/Add Route.png)
+(./assets/Add Route.png)
 
 ### Planned status
 ![Planned](./assets/Planned.png)
