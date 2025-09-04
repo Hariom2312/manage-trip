@@ -55,10 +55,10 @@ This app is designed for managing trips with features like **adding new trips, e
 Here are some previews of the application:
 
 ### Home Page
-![Home](./assets/Home.png)
+[Home](./assets/Home.png)
 
 ### Add Route
-![AddRoute](./assets/Add Route.png)
+[AddRoute](./assets/Add Route.png)
 
 ### Planned status
 ![Planned](./assets/Planned.png)
